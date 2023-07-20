@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYlmnMTOUYRm+Rkz1UcrVE0SGBfzixIzC9WA2vHL9HbKwDTT2TaLX74jImHTtXXKRRTBfPFYWul77mD4sB03TA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\Libraries\\UserSimulator\\UserSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dokto\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512",
+    "C:\\Users\\dokto\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\dokto\\.nuget\\packages\\opencvsharp4\\4.8.0.20230708\\opencvsharp4.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\dokto\\.nuget\\packages\\opencvsharp4.runtime.win\\4.8.0.20230708\\opencvsharp4.runtime.win.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\dokto\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\dokto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'InputSimulator 1.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "InputSimulator",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

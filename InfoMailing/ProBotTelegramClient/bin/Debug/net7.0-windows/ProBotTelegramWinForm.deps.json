@@ -1,0 +1,188 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProBotTelegramWinForm/1.0.0": {
+        "dependencies": {
+          "InputSimulator": "1.0.4",
+          "Newtonsoft.Json": "13.0.3",
+          "InfoMailing": "1.0.0.0"
+        },
+        "runtime": {
+          "ProBotTelegramWinForm.dll": {}
+        }
+      },
+      "InputSimulator/1.0.4": {
+        "runtime": {
+          "lib/net20/WindowsInput.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "InfoMailing/1.0.0.0": {
+        "runtime": {
+          "InfoMailing.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Telegram.Bot/19.0.0.0": {
+        "runtime": {
+          "Telegram.Bot.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.0.0.0"
+          }
+        }
+      },
+      "ClosedXML/0.101.0.0": {
+        "runtime": {
+          "ClosedXML.dll": {
+            "assemblyVersion": "0.101.0.0",
+            "fileVersion": "0.101.0.0"
+          }
+        }
+      },
+      "System.Data.SqlClient/4.6.1.1": {
+        "runtime": {
+          "System.Data.SqlClient.dll": {
+            "assemblyVersion": "4.6.1.1",
+            "fileVersion": "4.700.20.6702"
+          }
+        }
+      },
+      "EntityFramework/6.0.0.0": {
+        "runtime": {
+          "EntityFramework.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.400.420.21404"
+          }
+        }
+      },
+      "DocumentFormat.OpenXml/2.16.0.0": {
+        "runtime": {
+          "DocumentFormat.OpenXml.dll": {
+            "assemblyVersion": "2.16.0.0",
+            "fileVersion": "2.16.0.0"
+          }
+        }
+      },
+      "SixLabors.Fonts/1.0.0.0": {
+        "runtime": {
+          "SixLabors.Fonts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ExcelNumberFormat/1.1.0.0": {
+        "runtime": {
+          "ExcelNumberFormat.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Irony/1.0.11.0": {
+        "runtime": {
+          "Irony.dll": {
+            "assemblyVersion": "1.0.11.0",
+            "fileVersion": "1.0.11.0"
+          }
+        }
+      },
+      "XLParser/1.5.2.0": {
+        "runtime": {
+          "XLParser.dll": {
+            "assemblyVersion": "1.5.2.0",
+            "fileVersion": "1.5.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProBotTelegramWinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InputSimulator/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D0LvRCPQMX6/FJHBjng+RO+wRDuHTJrfo7IAc7rmkPvRqchdVGJWg3y70peOtDy3OLNK+HSOwVkH4GiuLnkKgA==",
+      "path": "inputsimulator/1.0.4",
+      "hashPath": "inputsimulator.1.0.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "InfoMailing/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Telegram.Bot/19.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClosedXML/0.101.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Data.SqlClient/4.6.1.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityFramework/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentFormat.OpenXml/2.16.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.Fonts/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcelNumberFormat/1.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Irony/1.0.11.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XLParser/1.5.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\UserSimulator.csproj.AssemblyReference.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\UserSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\UserSimulator.AssemblyInfoInputs.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\UserSimulator.AssemblyInfo.cs
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\UserSimulator.csproj.CoreCompileInputs.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\bin\Debug\net7.0-windows\UserSimulator.deps.json
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\bin\Debug\net7.0-windows\UserSimulator.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\bin\Debug\net7.0-windows\UserSimulator.pdb
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\UserSimulator.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\refint\UserSimulator.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\UserSimulator.pdb
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\UserSimulator\obj\Debug\net7.0-windows\ref\UserSimulator.dll

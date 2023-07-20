@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormControler\Forms\AddCommand\AddCommandForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\AddCommand\TypeButtons\TypeActionCollection.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\AddCommand\TypeButtons\TypeClipPaste.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\AddCommand\TypeButtons\TypeCommand.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\AddCommand\TypeButtons\TypeCommandCollection.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\AddCommand\TypeButtons\TypeScreenView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\AddCommand\TypeButtons\TypeSimpleCommand.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\CommandSettingsMenu\CommandSettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\FormQuestion\QuestionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\ReplaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormControler\Forms\ServiceMenu\ServiceMenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormControler\Main\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

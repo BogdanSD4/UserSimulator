@@ -1,0 +1,30 @@
+AUTHORIZATION_CODE={
+	https://oauth.vk.com/authorize?
+	client_id=51661035
+    	&redirect_uri=https://oauth.vk.com/blank.html
+    	&scope=messages,offline
+    	&response_type=token
+
+	https://oauth.vk.com/blank.html#code=87bac5b417fa9a529e
+}
+
+YOUR_CLIENT_SECRET=Jj5iNruV74WVH8TReAqs
+ServerKey=1cdfa19e1cdfa19e1cdfa19e2d1fcbe97511cdf1cdfa19e78aa099216c9737f5809dc94
+
+Get Api Token{
+	https://oauth.vk.com/access_token?		
+	client_id=YOUR_CLIENT_ID	
+	&client_secret=YOUR_CLIENT_SECRET
+	&redirect_uri=YOUR_REDIRECT_URI
+	&code=AUTHORIZATION_CODE
+
+	https://oauth.vk.com/access_token?		
+	client_id=51661035	
+	&client_secret=Jj5iNruV74WVH8TReAqs
+	&redirect_uri=https://oauth.vk.com/blank.html
+	&code=d4c6c6b050927f5ef4
+
+	https://oauth.vk.com/blank.html#access_token=vk1.a.YAVP6HE6ey-ZeHN_BmtR_mW5xORLQDl_qtiyrXWLkUkBPhTtUbY9yv0FgKjxZ9HrNZIyTTOKwoaQaiYXw2Jynr8kHPvjMggFruTTRx3yp9aIt6HlSwiwas-m7e_IHbJd4wdmf3fUMuQ_kAk_M9pKfIPxyiQSjP2WwUgDZjQRpmifpwgioWImX0nlE1C6AlPZJR311moS_a7UEO4dc8LRwA&expires_in=0&user_id=470263526
+}
+
+Даний канал розповсюджує відео, що провокують ворожнечу та насильство, щодо українського народу

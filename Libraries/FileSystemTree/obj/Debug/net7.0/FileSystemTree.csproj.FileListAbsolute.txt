@@ -1,0 +1,12 @@
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\FileSystemTree.csproj.AssemblyReference.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\FileSystemTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\FileSystemTree.AssemblyInfoInputs.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\FileSystemTree.AssemblyInfo.cs
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\FileSystemTree.csproj.CoreCompileInputs.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\bin\Debug\net7.0\FileSystemTree.deps.json
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\bin\Debug\net7.0\FileSystemTree.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\bin\Debug\net7.0\FileSystemTree.pdb
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\FileSystemTree.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\refint\FileSystemTree.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\FileSystemTree.pdb
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\FileSystemTree\obj\Debug\net7.0\ref\FileSystemTree.dll

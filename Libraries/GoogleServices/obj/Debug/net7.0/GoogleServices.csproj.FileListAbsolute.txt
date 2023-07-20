@@ -1,0 +1,12 @@
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\bin\Debug\net7.0\GoogleServices.deps.json
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\bin\Debug\net7.0\GoogleServices.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\bin\Debug\net7.0\GoogleServices.pdb
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\GoogleServices.csproj.AssemblyReference.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\GoogleServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\GoogleServices.AssemblyInfoInputs.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\GoogleServices.AssemblyInfo.cs
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\GoogleServices.csproj.CoreCompileInputs.cache
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\GoogleServices.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\refint\GoogleServices.dll
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\GoogleServices.pdb
+C:\Users\dokto\OneDrive\Рабочий стол\TelegramBotKPI\Libraries\GoogleServices\obj\Debug\net7.0\ref\GoogleServices.dll

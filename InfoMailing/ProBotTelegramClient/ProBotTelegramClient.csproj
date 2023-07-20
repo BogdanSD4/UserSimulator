@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.61.0.3082" />
+    <PackageReference Include="Google.Apis.Oauth2.v2" Version="1.61.0.1869" />
+    <PackageReference Include="Google.Apis.PeopleService.v1" Version="1.61.0.3093" />
+    <PackageReference Include="InputSimulator" Version="1.0.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+	<PackageReference Include="OpenCvSharp4" Version="4.8.0.20230708" />
+	<PackageReference Include="OpenCvSharp4.runtime.win" Version="4.8.0.20230708" />
+	<PackageReference Include="SixLabors.ImageSharp" Version="3.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EyesSimulator">
+      <HintPath>..\..\Libraries\EyesSimulator\bin\Debug\net7.0\EyesSimulator.dll</HintPath>
+    </Reference>
+    <Reference Include="FileSystemTree">
+      <HintPath>..\..\Libraries\FileSystemTree\bin\Debug\net7.0\FileSystemTree.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleServices">
+      <HintPath>..\..\Libraries\GoogleServices\bin\Debug\net7.0-windows\GoogleServices.dll</HintPath>
+    </Reference>
+    <Reference Include="InfoMailing">
+      <HintPath>..\Telegram\bin\Debug\net7.0\InfoMailing.dll</HintPath>
+    </Reference>
+    <Reference Include="UserSimulator">
+      <HintPath>..\..\Libraries\UserSimulator\bin\Debug\net7.0-windows\UserSimulator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\Icon\" />
+  </ItemGroup>
+
+</Project>
