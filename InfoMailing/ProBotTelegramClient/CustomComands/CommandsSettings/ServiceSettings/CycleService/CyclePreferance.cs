@@ -1,5 +1,4 @@
-﻿using Instruments;
-using Microsoft.VisualBasic.FileIO;
+﻿using Microsoft.VisualBasic.FileIO;
 using Newtonsoft.Json;
 using ProBotTelegramClient.CustomComands.CommandVarians;
 using ProBotTelegramClient.CustomComands.CommandVarians.ClipboardArgs;
@@ -12,6 +11,7 @@ using ProBotTelegramClient.FormControler.Main.MainScreen;
 using ProBotTelegramClient.FormControler.Main.MainScreen.ScreenPointArgs;
 using ProBotTelegramClient.FormControler.Main.MainScreen.ScreenSettingsArgs;
 using ProBotTelegramClient.FormControler.Main.Scripts.SelectorRuls;
+using ProBotTelegramClient.Instruments;
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -17,5 +17,19 @@ namespace ProBotTelegramClient.Instruments
 			}
 			return sb.ToString();
 		}
+
+		public static int GetIndex<TValue>(this IEnumerable<TValue> values, TValue value)
+		{
+			List<TValue> list = values.ToList();
+			for (int i = 0; i < list.Count; i++)
+			{
+				if ((object)list[i] == (object)value)
+				{
+					return i;
+				}
+			}
+
+			return -1;
+		}
 	}
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hwzxBfzzkguu8Z954rTLLoU6ygom3po6eL3vJwDLr4mYu6bOovKfqoJfLLD+J8zHY+Sa04xz74K7/o1GOCuG+A==",
+  "dgSpecHash": "ginsXxizPdgQDtn859lTTv4vMUJvvFqusjYFM1ccO94yVP77cLiwiVcPmr0/7QvrKJpyRlrQPXckDYaVFMTEPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\InfoMailing\\ProBotTelegramClient\\ProBotTelegramClient.csproj",
+  "projectFilePath": "D:\\Fork\\UserSimulator\\InfoMailing\\ProBotTelegramClient\\ProBotTelegramClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dokto\\.nuget\\packages\\google.apis\\1.61.0\\google.apis.1.61.0.nupkg.sha512",
     "C:\\Users\\dokto\\.nuget\\packages\\google.apis.auth\\1.61.0\\google.apis.auth.1.61.0.nupkg.sha512",

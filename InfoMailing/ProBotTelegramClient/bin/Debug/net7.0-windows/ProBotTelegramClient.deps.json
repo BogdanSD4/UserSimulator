@@ -19,7 +19,6 @@
           "EyesSimulator": "1.0.0.0",
           "FileSystemTree": "1.0.0.0",
           "GoogleServices": "1.0.0.0",
-          "InfoMailing": "1.0.0.0",
           "UserSimulator": "1.0.0.0"
         },
         "runtime": {
@@ -186,91 +185,11 @@
           }
         }
       },
-      "InfoMailing/1.0.0.0": {
-        "runtime": {
-          "InfoMailing.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
       "UserSimulator/1.0.0.0": {
         "runtime": {
           "UserSimulator.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Telegram.Bot/19.0.0.0": {
-        "runtime": {
-          "Telegram.Bot.dll": {
-            "assemblyVersion": "19.0.0.0",
-            "fileVersion": "19.0.0.0"
-          }
-        }
-      },
-      "ClosedXML/0.101.0.0": {
-        "runtime": {
-          "ClosedXML.dll": {
-            "assemblyVersion": "0.101.0.0",
-            "fileVersion": "0.101.0.0"
-          }
-        }
-      },
-      "System.Data.SqlClient/4.6.1.1": {
-        "runtime": {
-          "System.Data.SqlClient.dll": {
-            "assemblyVersion": "4.6.1.1",
-            "fileVersion": "4.700.20.6702"
-          }
-        }
-      },
-      "EntityFramework/6.0.0.0": {
-        "runtime": {
-          "EntityFramework.dll": {
-            "assemblyVersion": "6.0.0.0",
-            "fileVersion": "6.400.420.21404"
-          }
-        }
-      },
-      "DocumentFormat.OpenXml/2.16.0.0": {
-        "runtime": {
-          "DocumentFormat.OpenXml.dll": {
-            "assemblyVersion": "2.16.0.0",
-            "fileVersion": "2.16.0.0"
-          }
-        }
-      },
-      "SixLabors.Fonts/1.0.0.0": {
-        "runtime": {
-          "SixLabors.Fonts.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "ExcelNumberFormat/1.1.0.0": {
-        "runtime": {
-          "ExcelNumberFormat.dll": {
-            "assemblyVersion": "1.1.0.0",
-            "fileVersion": "1.1.0.0"
-          }
-        }
-      },
-      "Irony/1.0.11.0": {
-        "runtime": {
-          "Irony.dll": {
-            "assemblyVersion": "1.0.11.0",
-            "fileVersion": "1.0.11.0"
-          }
-        }
-      },
-      "XLParser/1.5.2.0": {
-        "runtime": {
-          "XLParser.dll": {
-            "assemblyVersion": "1.5.2.0",
-            "fileVersion": "1.5.2.0"
           }
         }
       }
@@ -388,57 +307,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "InfoMailing/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "UserSimulator/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Telegram.Bot/19.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ClosedXML/0.101.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.Data.SqlClient/4.6.1.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "EntityFramework/6.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "DocumentFormat.OpenXml/2.16.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "SixLabors.Fonts/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ExcelNumberFormat/1.1.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Irony/1.0.11.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "XLParser/1.5.2.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

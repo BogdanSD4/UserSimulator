@@ -77,7 +77,10 @@ namespace ProBotTelegramClient.FormControler.Main.MainScreen.ScreenPointArgs
             button.Left = settings.Padding.Left;
             button.Click += (s,e) => 
             {
-                if (IsOpen)
+                bool value = IsOpen;
+                IsOpen = !IsOpen;
+
+				if (value)
                 {
                     Hide();
                 }
@@ -86,7 +89,6 @@ namespace ProBotTelegramClient.FormControler.Main.MainScreen.ScreenPointArgs
                     Activate();
                 }
 
-                IsOpen = !IsOpen;
                 //MainScreenController.Reordered();
             };
 

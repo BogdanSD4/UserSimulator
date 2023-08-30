@@ -520,11 +520,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\InfoMailing\\ProBotTelegramClient\\ProBotTelegramClient.csproj",
+      "projectUniqueName": "D:\\Fork\\UserSimulator\\InfoMailing\\ProBotTelegramClient\\ProBotTelegramClient.csproj",
       "projectName": "ProBotTelegramClient",
-      "projectPath": "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\InfoMailing\\ProBotTelegramClient\\ProBotTelegramClient.csproj",
+      "projectPath": "D:\\Fork\\UserSimulator\\InfoMailing\\ProBotTelegramClient\\ProBotTelegramClient.csproj",
       "packagesPath": "C:\\Users\\dokto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\InfoMailing\\ProBotTelegramClient\\obj\\",
+      "outputPath": "D:\\Fork\\UserSimulator\\InfoMailing\\ProBotTelegramClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\dokto\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
