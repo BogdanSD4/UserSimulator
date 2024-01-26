@@ -15,7 +15,14 @@ namespace ProBotTelegramClient
 {
 	public class Startup
 	{
+		static Startup()
+		{
+			ProjectDir = Path.GetFullPath("../");
+		}
+
 		private static Configuration _config;
+		public static readonly string ProjectDir;
+
 		public static Configuration Config { get 
 			{
 				if (_config is null) throw new Exception("Program not initialized");
@@ -31,7 +38,7 @@ namespace ProBotTelegramClient
 				hook.HookActivate();
 
 				ExeConfigurationFileMap configFileMap = new ExeConfigurationFileMap();
-				configFileMap.ExeConfigFilename = "C:\\Users\\dokto\\OneDrive\\Рабочий стол\\TelegramBotKPI\\InfoMailing\\ProBotTelegramClient\\app.config";
+				configFileMap.ExeConfigFilename = $"{ProjectDir}\\TelegramBotKPI\\InfoMailing\\ProBotTelegramClient\\app.config";
 				_config = ConfigurationManager.OpenMappedExeConfiguration(configFileMap, ConfigurationUserLevel.None);
 
 				if (GoogleService.HaveUserInfoCache)
